@@ -1,7 +1,7 @@
 # Autism_SupplementaryMaterial
 
 This repository contains supplementary materials relating to the manuscript 
-"Untargeted metabolomic study of autism in newborn screening samples: a pilot study" by J. Courraud ([@Althalis](https://github.com/Althalis)), M. Ernst ([@madeleineernst](https://github.com/madeleineernst)), S.S. Laursen, A.S. Cohen.
+"Untargeted metabolomic study of autism in newborn screening samples: a pilot study" by J. Courraud ([@Althalis](https://github.com/Althalis)), M. Ernst ([@madeleineernst](https://github.com/madeleineernst)), S.S. Laursen, D. M. Hougaard, A.S. Cohen.
 
 ## KendrickMassFilter
 
@@ -21,7 +21,7 @@ to assess the variation in the metabolome explained by collected metadata.
 
 ## Citation
 
-https://github.com/madeleineernst/Autism_SupplementaryMaterial.
+[Courraud J, Ernst M, Laursen SS, Hougaard DM, Cohen AS. Untargeted metabolomic study of autism in newborn screening samples: a pilot study. 2020; medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.17.20069153v1).
 
 [da Silva RR, Vargas F, Ernst M et al. Computational Removal of Undesired Mass Spectral Features Possessing Repeat Units via a Kendrick Mass Filter. J Am Soc Mass Spectrom 2019; 30: 268-277](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6347485/).
 
